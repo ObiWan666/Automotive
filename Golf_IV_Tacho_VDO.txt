@@ -1,0 +1,14 @@
+Golf 4 Tacho
+
+Links to components used n VDO Dashboard
+
+https://www.mouser.de/ProductDetail/Microchip-Technology/U6803B-MFPG3Y?qs=x9Fa6eo0USmGa6hsTEEPTQ%3D%3D
+https://www.mouser.de/datasheet/2/36/doc4762-53812.pdf  EEPROM
+https://www.nxp.com/docs/en/data-sheet/PCF8576C.pdf
+https://www.digikey.de/en/products/detail/analog-devices-inc-maxim-integrated/DG403DY/947717
+https://datasheets.maximintegrated.com/en/ds/DG401-DG405.pdf
+https://elw-elektronik.com/epages/d0dee231-ab0f-4fe3-b9b2-78e23c1b0b52.mobile/de_CH/?ViewObjectID=29655882 Spannungsregler
+https://www.mouser.de/ProductDetail/Texas-Instruments/LP2902M-NOPB?qs=7lkVKPoqpbb5Bx7aPlpEEw%3D%3D&gclid=EAIaIQobChMI0fzrr8nO-wIVkp93Ch1JWgGSEAAYASAAEgJnZ_D_BwE Quad OP Verstärker
+https://www.ti.com/lit/ds/symlink/lp324-n.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1669559403108&ref_url=https%253A%252F%252Fwww.mouser.de%252F LP324 quad op amp
+https://www.ti.com/product/TPIC6C595#tech-docs 8Bit shift register
+https://www.ti.com/lit/ds/symlink/tpic6c595.pdf?ts=1669559171722&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPIC6C595 8Bit shift register
