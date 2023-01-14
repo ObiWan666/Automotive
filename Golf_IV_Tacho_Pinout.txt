@@ -1,0 +1,266 @@
+Pinbelegung Tacho VW Golf 4 (mit und ohne CAN)
+
+gesucht via https://www.google.com/search?q=pinbelegung+vag+tacho+golf+4&rlz=1C1GCEA_enDE921DE921&oq=pinbelegung+vag+tacho+golf+4&aqs=chrome..69i57j0i546l2.9019j0j7&sourceid=chrome&ie=UTF-8
+Ergebnisse hier im Orginal: https://avdi-forum.de/avdi_aktuell/index.php/Thread/31-TeileNr-von-Tacho-Stecker-OBD-Dose-Motorsteuerger%C3%A4te-usw/
+
+Golf 4 bis 04/99
+		Steckanschluss, 32-fach, blau
+			1 - Klemme 15, Plus
+			2 - Kontrollampe für Blinker rechts
+			3 - Ausgangssignal 1 vom elektronischen Geschwindigkeitsmesser
+			4 - Kontrollampe für Anhängerbetrieb
+			5 - Kraftstoffvorratsanzeige
+			6 - Airbag
+			7 - Klemme 31, Gebermasse
+			8 - Kühlmitteltemperaturanzeige
+			9 - Klemme 31, Masse
+			10 - Öldruckschalter
+			11 - Drehzahlsignal
+			12 - Kontrollampe für Generator, Klemme 61
+			13 - Kontrollampe für Vorglühzeit (nur bei Dieselmotor)
+			14 - Kontrollampe für Nebelschlussleuchte
+			15 - nicht belegt
+			16 - Kontrollampe für offene Heckklappe (nur bestimmte Länder)
+			17 - Kontrollampe für Fernlicht, Klemme 56a
+			18 - Kontrollampe für Blinker links
+			19 - Antiblockiersystem (ABS)
+			20 - Beleuchtung für Schalttafeleinsatz, Klemme 58b
+			21 - Signal für offene Fahrertür
+			22 - Kühlmittelmangelanzeige
+			23 - Klemme 30, Plus
+			24 - Klemme 31, Masse
+			25 - Eigendiagnose/ K-Leitung
+			26 - Parklicht rechts
+			27 - Parklicht links
+			28 - Eingangssignal zum elektronischen Geschwindigkeitsmesser
+			29 - Kontrollampe für Bremsanlage
+			30 - S-Kontakt
+			31 - Sicherheitsgurt-Warnsystem
+			32 - Abgas-Warnleuchte (nur bestimmte Länder)
+
+		Steckanschluss, 32-fach, grün
+			1 - nicht belegt
+			2 - Lesespule für Wegfahrsicherung 1
+			3 - Kontrollampe für Standlicht
+			4 - Daten-BUS (CAN), Abschirmung für Eingangssignale
+			5 - W-Leitung
+			6 - Waschwassermangel
+			7 - Bremsbelagverschleiß
+			8 - externer Summer
+			9 - externer Gong (z. B. für Sicherheitsgurt-Warnsystem)
+			9 - externer Gong
+			10 - Kraftstoffreservewarnung (nur bestimmte Länder)
+			11 - Signal für Fahrzeugstandzeit
+			12 - Klimaanlagenabschaltung
+			13 - Kontrollampe für Handbremse
+			14 - Antriebsschlupfregelung/Fahrzeugstabilisierung
+			15 - Fehlerlampe für elektrische Gasbetätigung
+			16 - Wegfahrsicherung, Relaisausgang
+			17 - Lesespule für Wegfahrsicherung 2
+			18 - Signal für Öltemperatur- und Ölstandswarnung
+			19 - Daten-BUS (CAN), High-Eingangssignal
+			20 - Daten-BUS (CAN), Low-Eingangssignal
+			21 - Signal für Öltemperaturwarnung (Fahrzeuge ohne Ölstandswarnung)
+			22 - nicht belegt
+			23 - Abruftaste für MFA - oben, (die Anzeige schaltet rückwärts)
+			24 - Abruftaste für MFA - unten, (die Anzeige schaltet vorwärts)
+			25 - Speicherschalter für MFA - Reset
+			26 - Eingangssignal für Außentemperatur
+			27 - Daten-BUS (CAN), High-Ausgangssignal
+			28 - Daten-BUS (CAN), Low-Ausgangsssignal
+			29 - Daten-BUS (CAN), Abschirmung für Ausgangssignale
+			30 - Ausgangssignal 2 vom elektronischen Geschwindigkeitsmesser
+			31 - Wählbereichsanzeige
+			32 - Signal für Kraftstoffverbrauch
+
+		Steckanschluss, 20-fach, rot
+			1 - nicht belegt
+			2 - nicht belegt
+			3 - nicht belegt
+			4 - nicht belegt
+			5 - nicht belegt
+			6 - nicht belegt
+			7 - nicht belegt
+			8 - nicht belegt
+			9 - nicht belegt
+			10 - nicht belegt
+			11 - nicht belegt
+			12 - Radio/Navigation - Clock
+			13 - Radio/Navigation - Data
+			14 - nicht belegt
+			15 - Radio/Navigation - Enable
+			16 - nicht belegt
+			17 - nicht belegt
+			19 - nicht belegt
+			19 - nicht belegt
+			20 - nicht belegt
+
+Golf 4 ab 05/99
+		Steckanschluss, 32-fach, blau
+			1 - Klemme 15, Plus
+			2 - Kontrollampe für Blinker rechts
+			3 - Ausgangssignal 1 vom elektronischen Geschwindigkeitsmesser
+			4 - Kontrollampe für Anhängerbetrieb
+			5 - Kraftstoffvorratsanzeige
+			6 - Airbag (Anschluss bei Fahrzeugen ohne Airbag auf Masse gelegt)
+			7 - Klemme 31, Gebermasse
+			8 - Kühlmitteltemperaturanzeige
+			9 - Klemme 31, Masse
+			10 - Öldruckschalter
+			11 - nicht belegt
+			12 - Kontrollampe für Generator, Klemme 61
+			13 - Kontrollampe für Rücksitzlehnen-Verriegelung (nur bestimmte Länder)
+			14 - Kontrollampe für Nebelschlussleuchte
+			15 - nicht belegt
+			16 - Kontrollampe für offene Heckklappe (nur bestimmte Länder)
+			17 - Kontrollampe für Fernlicht, Klemme 56a
+			18 - Kontrollampe für Blinker links
+			19 - Antiblockiersystem (ABS)
+			20 - Beleuchtung für Schalttafeleinsatz, Klemme 58b
+			21 - Signal für offene Fahrertür
+			22 - Kühlmittelmangelanzeige
+			23 - Klemme 30, Plus
+			24 - Klemme 31, Masse
+			25 - Eigendiagnose/ K-Leitung
+			26 - Parklicht rechts, Signal für Lichtwarnsummer
+			27 - Parklicht links, Signal für Lichtwarnsummer
+			28 - Eingangssignal zum elektronischen Geschwindigkeitsmesser
+			29 - Kontrollampe für Bremsanlage
+			30 - S-Kontakt
+			31 - Sicherheitsgurt-Warnsystem
+			32 - nicht belegt
+
+		Steckanschluss, 32-fach, grün
+			1 - nicht belegt
+			2 - Lesespule für Wegfahrsicherung 1
+			3 - Kontrollampe für Standlicht
+			4 - Daten-BUS (CAN), Abschirmung für Eingangssignale
+			5 - W-Leitung
+			6 - Waschwassermangel
+			7 - Bremsbelagverschleiß
+			8 - nicht belegt
+			9 - nicht belegt
+			10 - nicht belegt
+			11 - Signal für Fahrzeugstandzeit
+			12 - Klimaanlagenabschaltung
+			13 - Kontrollampe für Handbremse
+			14 - Antriebsschlupfregelung/Fahrzeugstabilisierung
+			15 - nicht belegt
+			16 - nicht belegt
+			17 - Lesespule für Wegfahrsicherung 2
+			18 - Signal für Öltemperatur- und Ölstandswarnung
+			19 - Daten-BUS (CAN), High-Eingangssignal
+			20 - Daten-BUS (CAN), Low-Eingangssignal
+			21 - nicht belegt
+			22 - Eingangssignal für Motorhaubenschalter
+			23 - Abruftaste für MFA - oben, (die Anzeige schaltet rückwärts)
+			24 - Abruftaste für MFA - unten, (die Anzeige schaltet vorwärts)
+			25 - Speicherschalter für MFA - Reset
+			26 - Eingangssignal für Außentemperatur
+			27 - Daten-BUS (CAN), High-Ausgangssignal
+			28 - Daten-BUS (CAN), Low-Ausgangsssignal
+			29 - nicht belegt
+			30 - nicht belegt
+			31 - nicht belegt
+			32 - nicht belegt
+
+		Steckanschluss, 20-fach, rot
+			1 - nicht belegt
+			2 - nicht belegt
+			3 - nicht belegt
+			4 - nicht belegt
+			5 - Abschirmung Masse Telematik
+			6 - nicht belegt
+			7 - nicht belegt
+			8 - nicht belegt
+			9 - nicht belegt
+			10 - nicht belegt
+			11 - nicht belegt
+			12 - Radio/Navigation - Clock
+			13 - Radio/Navigation - Data
+			14 - nicht belegt
+			15 - Radio/Navigation - Enable
+			16 - nicht belegt
+			17 - nicht belegt
+			18 - nicht belegt
+			19 - nicht belegt
+			20 - nicht belegt
+
+Golf ab 05/02
+		Steckanschluss, 32-fach, blau
+			1 - Klemme 15, Plus
+			2 - Kontrollampe für Blinker rechts
+			3 - Ausgangssignal 1 vom elektronischen Geschwindigkeitsmesser
+			4 - Kontrollampe für Anhängerbetrieb
+			5 - Kraftstoffvorratsanzeige
+			6 - Airbag (Anschluss bei Fahrzeugen ohne Airbag auf Masse gelegt)
+			7 - Klemme 31, Gebermasse
+			8 - Kühlmitteltemperaturanzeige
+			9 - Klemme 31, Masse
+			10 - Öldruckschalter
+			11 - nicht belegt
+			12 - Kontrollampe für Generator, Klemme 61
+			13 - Kontrollampe für Rücksitzlehnen-Verriegelung (nur bestimmte Länder)
+			14 - Kontrollampe für Nebelschlussleuchte
+			15 - nicht belegt
+			16 - Kontrollampe für offene Heckklappe (nur bestimmte Länder)
+			17 - Kontrollampe für Fernlicht, Klemme 56a
+			18 - Kontrollampe für Blinker links
+			19 - Antiblockiersystem (ABS)
+			20 - Beleuchtung für Schalttafeleinsatz, Klemme 58b
+			21 - Signal für offene Fahrertür
+			22 - Kühlmittelmangelanzeige
+			23 - Klemme 30, Plus
+			24 - Klemme 31, Masse
+			25 - Eigendiagnose/ K-Leitung
+			26 - Parklicht rechts, Signal für Lichtwarnsummer
+			27 - Parklicht links, Signal für Lichtwarnsummer
+			28 - Eingangssignal zum elektronischen Geschwindigkeitsmesser
+			29 - Kontrollampe für Bremsanlage
+			30 - S-Kontakt
+			31 - Sicherheitsgurt-Warnsystem
+			32 - nicht belegt
+
+		Steckanschluss, 32-fach, grün
+			1 - nicht belegt
+			2 - Lesespule für Wegfahrsicherung 1
+			3 - Kontrollampe für Standlicht
+			4 - Daten-BUS (CAN), Abschirmung für Eingangssignale
+			5 - W-Leitung
+			6 - Waschwassermangel
+			7 - Bremsbelagverschleiß
+			8 - nicht belegt
+			9 - nicht belegt
+			10 - nicht belegt
+			11 - Signal für Fahrzeugstandzeit
+			12 - Klimaanlagenabschaltung
+			13 - Kontrollampe für Handbremse
+			14 - Antriebsschlupfregelung/Fahrzeugstabilisierung
+			15 - nicht belegt
+			16 - nicht belegt
+			17 - Lesespule für Wegfahrsicherung 2
+			18 - Signal für Öltemperatur- und Ölstandswarnung
+			19 - Daten-BUS (CAN), High-Eingangssignal
+			20 - Daten-BUS (CAN), Low-Eingangssignal
+			21 - nicht belegt
+			22 - Eingangssignal für Motorhaubenschalter
+			23 - Abruftaste für MFA - oben, (die Anzeige schaltet rückwärts)
+			24 - Abruftaste für MFA - unten, (die Anzeige schaltet vorwärts)
+			25 - Speicherschalter für MFA - Reset
+			26 - Eingangssignal für Außentemperatur
+			27 - Daten-BUS (CAN), High-Ausgangssignal
+			28 - Daten-BUS (CAN), Low-Ausgangsssignal
+			29 - nicht belegt
+			30 - clock
+			31 - Data
+			32 - Enable
+
+Verkabelung Lenkstockschalter zur MFA (Umschaltung im TachoDisplay)
+	Pin 1 geht auf Pin 24 - Abruftaste für MFA - unten, (die Anzeige schaltet vorwärts)
+	Pin 2 geht auf Pin 23 - Abruftaste für MFA - oben, (die Anzeige schaltet rückwärts)
+	Pin 3 geht auf Masse (ist im Stecker vom Lenkstockschalter schon vorhanden, also einfach dazu klemmen
+	Pin 4 geht auf Pin 25 - Speicherschalter für MFA - Reset
+
+Sicherungen für die Tachos sind die 07 / 11
+	Für Klemme 58L, Sicherung 23 im Sicherungshalter
+	Für Klemme 58R, Sicherung 22 im Sicherungshalter
